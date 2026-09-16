@@ -31,4 +31,4 @@ This project focuses on cleaning a raw E-commerce sales dataset containing 1000+
 The final dataset is now 100% clean with no duplicates, proper date formats, consistent text casing, correct number formats, and no blank values in critical columns. It is now ready for Dashboard and Analysis.
 
 ## 👤 Author
-Gajendra Belwal | Aspiring Data Analyst & MIS executive
+Gajendra Belwal | MA Post Graduate(fresher)| Aspiring Data Analyst & MIS executive
