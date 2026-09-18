@@ -32,3 +32,28 @@ The final dataset is now 100% clean with no duplicates, proper date formats, con
 
 ## 👤 Author
 Gajendra Belwal | MA Post Graduate(fresher)| Aspiring Data Analyst & MIS executive
+
+---
+## 📊 Part 2 - Sales Dashboard (2025)
+
+In this part I created 2 dashboards from the cleaned data (Jan-Dec 2025).
+
+**How I made it:**
+- Created Pivot Tables for analysis
+- In 2nd dashboard, created 2 pivots inside 1 sheet
+- Used Charts, Slicers and Timeline for filtering
+- Did formatting and hide the backend data to make dashboard clean
+
+**Slicers Used:** Region, Category, Payment Method, Timeline (Month)
+
+**Dashboard 1:**
+- Category wise Sale (to see which category sells most)
+
+**Dashboard 2:**
+- Sales by Payment Method (Donut Chart)
+- Month wise Sale (Line Chart - to see trend)
+
+**Tools Used:** MS Excel
+
+**File:** `Ecommerce_Sales_dashboard_Gajendra_Belwal.xlsx`
+
